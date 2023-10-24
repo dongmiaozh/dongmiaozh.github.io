@@ -1,24 +1,12 @@
 ---
-layout: default
-title: CV
+layout: archive
+title: "CV"
 permalink: /cv/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
-<a href="/files/DONGMIAO_ZHANG_CV_14072020.pdf" download class="download-button">Download Full CV</a>
+{% include base_path %}
 
-<style>
-.download-button {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #3498db;
-    color: white;
-    text-decoration: none;
-    border-radius: 4px;
-    border: none;
-    cursor: pointer;
-}
-.download-button:hover {
-    background-color: #2980b9;
-}
-</style>
+[download CV here](files/DONGMIAO ZHANG_CV_14072020.pdf)
