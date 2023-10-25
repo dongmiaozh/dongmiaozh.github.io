@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Supervision Experience"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate and Master's course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Utrecht University, SGPL"
+date: 2022-09-01
+location: "Utrecht, NL"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I have had the privilege of supervising several bachelor and master students during their academic journey. My role involved providing guidance, feedback, and support as they pursued their individual research projects, ensuring they met the academic standards and contributed valuable insights to their respective fields.
