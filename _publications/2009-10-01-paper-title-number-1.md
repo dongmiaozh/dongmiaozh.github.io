@@ -11,4 +11,4 @@ citation: 'Nicola Cortinovis & Dongmiao Zhang & Ron Boschma, 2022. "Regional div
 
 <small>{{ page.excerpt }}</small>
 
-<small>Recommended citation: {{ page.citation }}</small>
+<small>Recommended citation: {{ page.citation }}.</small>
