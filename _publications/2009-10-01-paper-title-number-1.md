@@ -9,6 +9,3 @@ paperurl: https://ideas.repec.org/p/egu/wpaper/2216.html
 citation: 'Nicola Cortinovis & Dongmiao Zhang & Ron Boschma, 2022. "Regional diversification and intra-regional wage inequality in the Netherlands," Papers in Evolutionary Economic Geography (PEEG) 2216, Utrecht University, Department of Human Geography and Spatial Planning, Group Economic Geography, revised Aug 2022.'
 ---
 
-<small>{{ page.excerpt }}</small>
-
-<small>Recommended citation: {{ page.citation }}.</small>
