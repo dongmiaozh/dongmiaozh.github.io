@@ -2,7 +2,7 @@
 title: "6th Data & Algorithms for ST&I Studies"
 collection: talks
 type: "conference presentation"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/data_algrithms_2021
 venue: "Aristotle University of Thessaloniki (AUTH)"
 date: 23/09/2021
 location: "Thessaloniki, Greece"
