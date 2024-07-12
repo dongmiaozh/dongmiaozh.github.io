@@ -11,7 +11,8 @@ redirect_from:
 <style>
     /* General body text */
     body {
-        font-size: 10 px;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        font-size: 9.5 px;
         line-height: 1.6; /* This adds spacing between lines of text */
     }
 
