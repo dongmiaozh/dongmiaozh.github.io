@@ -45,11 +45,7 @@ redirect_from:
     li {
         margin-bottom: 10px; /* Adds space between list items */
     }
-
-    /* Column name and side column font size */
-    .column-name, .side-column {
-        font-size: 15px;
-    }
+  
 </style>
 
 Hi! I am a Marie Curie research fellow for [POLISS](https://poliss.eu/) project and a 
