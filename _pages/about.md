@@ -11,7 +11,7 @@ redirect_from:
 <style>
     /* General body text */
     body {
-        font-size: 9px;
+        font-size: 10 px;
         line-height: 1.6; /* This adds spacing between lines of text */
     }
 
@@ -55,11 +55,9 @@ With the rapid development of AI, particularly the large language models, many o
 
 I attempt to answer these questions using quantitative methods, leveraging novel datasets such as administrative data, AI patent data and AI adoption data. My research shows that complementarity lies at the heart of these questions. If we adapt fast and invest in AI-complementarity skills and technologies, we have a good chance of leveraging AI to deliver more inclusive economic growth, reducing inequality and improving the quality of work for all.
 
-How do we know which skills are complementary to AI? In my research, I introduced the concept of "complexity intelligence" as a key skill that complements AI. Instead of focusing on education, job experience, or narrowly defined skill categories, I suggest we view skills as bundles.
+How do we know which skills are complementary to AI? In my research, I introduced the concept of "complexity intelligence" as a key skill that complements AI. Instead of focusing on education, job experience, or narrowly defined skill categories, I suggest we view skills as bundles. "Complexity intelligence" measures how many skills are combined within an occupation and their overall complexity.
 
-A helpful example is to imagine skills as Lego bricks. Just as Lego bricks come in various shapes and sizes, skills differ in complexity. Much like how you can combine Lego bricks to create unique structures, different combinations of skills have different economic value. "Complexity intelligence" measures how many skills are combined within an occupation and their overall complexity.
-
-My findings show that occupations with high-complexity intelligence are more likely to adopt AI technologies. As a result, these jobs experience higher employment and wage growth compared to those that don't adopt AI. This research was nominated for the 2024 DRUID Steven Klepper Award for Best Young Scholar Paper.
+My findings show that occupations with high-complexity intelligence are more likely to adopt AI technologies. As a result, these jobs experience higher employment and wage growth. This research was nominated for the 2024 DRUID Steven Klepper Award for Best Young Scholar Paper.
 
 I am on the job market this year! I'm open to tenure-track faculty positions, post-doc fellowships or relevant industry roles. Please get in touch!
 
