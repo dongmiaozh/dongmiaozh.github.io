@@ -8,7 +8,7 @@ author_profile: true
     /* General body text */
     body {
         font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-        font-size: 11px;
+        font-size: 12px;
         line-height: 1.6; /* This adds spacing between lines of text */
         color: #333;
         background-color: #f8f9fa; /* Light background color for better readability */
@@ -25,7 +25,7 @@ author_profile: true
     }
 
     h1 {
-        font-size: 12px;
+        font-size: 15px;
         margin-top: 30px; /* Adds space above main header */
     }
 
