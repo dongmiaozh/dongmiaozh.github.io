@@ -46,10 +46,21 @@ redirect_from:
     }
 </style>
 
-I am a Marie Curie research fellow for [POLISS](https://poliss.eu/) project and a 
-PhD candidate at Utrecht University in the Department of Human Geography and Spatial Planning. My PhD thesis investigates the impact of artificial intelligence on labour market inequalities and the future of work. 
+Hi! I am a Marie Curie research fellow for [POLISS](https://poliss.eu/) project and a 
+PhD candidate at Utrecht University in the Department of Human Geography and Spatial Planning. I was fortunate to work under the supervision of Prof Ron Boschma, Pierre Alex Balland and Andrea Morrison. I graduated with a Master's in Public Administration from the London School of Economics and Political Science, specialising in Public and Economic Policy. I advised high-level policymakers on digitalization (Utrecht Province), skill development (UNDP) and gender equality (EBRD). 
 
-I graduated from Master in Public Administration degree 
-from London School of Economics and Political Science specialising in Public and Economic Policy. 
-Before joining Utrecht, I worked with academia and international organisations (UNDP, EBRD) on digitalisation, 
-climate change, and gender equality.
+So, what is my research about? During my PhD, I seek to understand the impact of artificial intelligence on the labour market from a complementary perspective. Throughout history, disruptive technologies have reshaped our jobs, making some roles obsolete while creating new ones. The "creative destruction" process, termed by Joseph Schumpeter, is one of the driving forces behind regional and inter-personal inequalities. 
+
+With the rapid development of AI, particularly the large language models, many open questions remain: Will AI exacerbate economic inequality? Who will benefit from the AI race, and who will be at risk of losing out? How can we choose which skills to invest in, or if human skills will still be relevant in an age of artificial general intelligence?
+
+I attempt to answer these questions using quantitative methods, leveraging novel datasets such as administrative data, AI patent data and AI adoption data. My research shows that complementarity lies at the heart of these questions. If we adapt fast and invest in AI-complementarity skills and technologies, we have a good chance of leveraging AI to deliver more inclusive economic growth, reducing inequality and improving the quality of work for all.
+
+How do we know which skills are complementary to AI? In my research, I introduced the concept of "complexity intelligence" as a key skill that complements AI. Instead of focusing on education, job experience, or narrowly defined skill categories, I suggest we view skills as bundles.
+
+A helpful example is to imagine skills as Lego bricks. Just as Lego bricks come in various shapes and sizes, skills differ in complexity. Much like how you can combine Lego bricks to create unique structures, different combinations of skills have different economic value. "Complexity intelligence" measures how many skills are combined within an occupation and their overall complexity.
+
+My findings show that occupations with high-complexity intelligence are more likely to adopt AI technologies. As a result, these jobs experience higher employment and wage growth compared to those that don't adopt AI. This research was nominated for the 2024 DRUID Steven Klepper Award for Best Young Scholar Paper.
+
+I am on the job market this year! I'm open to tenure-track faculty positions, post-doc fellowships or relevant industry roles. Please get in touch!
+
+
