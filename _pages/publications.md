@@ -25,17 +25,17 @@ author_profile: true
     }
 
     h1 {
-        font-size: 15px;
+        font-size: 18px;
         margin-top: 30px; /* Adds space above main header */
     }
 
     h2 {
-        font-size: 10px;
+        font-size: 16px;
         margin-top: 25px; /* Adds space above this level header */
     }
 
     h3 {
-        font-size: 9px;
+        font-size: 14px;
         margin-top: 20px; /* Adds space above this level header */
     }
 
