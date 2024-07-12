@@ -21,7 +21,7 @@ status: work in progress
 
     /* Headers */
     h1, h2, h3, h4, h5, h6 {
-        font-family: 'Tisa', serif;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
         font-weight: bold;
         color: #2c3e50;
         margin-bottom: 15px; /* Adds space below headers */
