@@ -10,7 +10,7 @@ status: work in progress
 <style>
     /* General body text */
     body {
-        font-family: 'Tisa', serif;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
         font-size: 9px;
         line-height: 1.6; /* This adds spacing between lines of text */
         color: #333;
