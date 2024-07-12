@@ -12,7 +12,7 @@ redirect_from:
     /* General body text */
     body {
         font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-        font-size: 10px;
+        font-size: 9px;
         line-height: 1.6; /* This adds spacing between lines of text */
     }
 
@@ -44,6 +44,11 @@ redirect_from:
 
     li {
         margin-bottom: 10px; /* Adds space between list items */
+    }
+
+    /* Column name and side column font size */
+    .column-name, .side-column {
+        font-size: 11px;
     }
 </style>
 
