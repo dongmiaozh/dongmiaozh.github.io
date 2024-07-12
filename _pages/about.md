@@ -48,7 +48,7 @@ redirect_from:
   
 </style>
 
-Hi! I am a Marie Curie research fellow for [POLISS](https://poliss.eu/) project and a 
+Hi! I am a Marie Curie research fellow for the [POLISS](https://poliss.eu/) project and a 
 PhD candidate at Utrecht University in the Department of Human Geography and Spatial Planning. I was fortunate to work under the supervision of Prof Ron Boschma, Pierre Alex Balland and Andrea Morrison. I graduated with a Master's in Public Administration from the London School of Economics and Political Science, specialising in Public and Economic Policy. 
 
 Broadly speaking, I'm keen to understand how we can leverage AI to maximize human potential and deliver inclusive and equitable growth. My PhD thesis looks into how complementarity might shape AI's impact on the labour market. I use a combination of econometric methods, network science, and natural language processing (NLP) techniques to study the topic. Using administrative data, AI patent and adoption data in the Netherlands and the U.S., I show that workers and regions with complementary skills to AI are more likely to benefit from its progress, while others are at risk of losing out. 
