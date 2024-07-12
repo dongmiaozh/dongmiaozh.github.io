@@ -55,7 +55,7 @@ Broadly speaking, I'm keen to understand how we can leverage AI to maximize huma
 
 So what skill is complementary to AI? In my job market paper, I introduced the concept of "complexity intelligence" as a potential candidate. Rather than just looking at education, job experience, or narrowly defined skill categories, I suggest that we view skills as bundles that combine different abilities. "Complexity intelligence" captures how many skills are combined within an occupation and their aggregate complexity. The findings show that occupations with high-complexity intelligence are more likely to adopt AI technologies. In addition, AI adoption is associated with an increase in wage growth on average, with a larger increase for complex occupations. This research was nominated for the 2024 DRUID Steven Klepper Award for Best Young Scholar Paper.
 
-I believe the best way for a scholar to understand the world is to interact with people of different backgrounds. I have benefited greately from my academic and non-academic visits across the world. I have also advised high-level policymakers on digitalization strategies (Utrecht Province), skill development (UNDP) and gender equality (EBRD). 
+I believe the best way for a scholar to understand the world is to interact with people of different backgrounds. I have benefited greately from my academic and non-academic visits across the world. I also advised high-level policymakers on digitalization strategies (Utrecht Province), skill development (UNDP) and gender equality (EBRD). 
 
 I am on the job market this year! I'm open to tenure-track faculty positions, post-doc fellowships or relevant industry roles. Please get in touch!
 
