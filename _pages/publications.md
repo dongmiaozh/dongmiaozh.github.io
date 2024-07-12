@@ -21,7 +21,7 @@ author_profile: true
         font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
         font-weight: bold;
         color: #2c3e50;
-        margin-bottom: 15px; /* Adds space below headers */
+        margin-bottom: 18px; /* Adds space below headers */
     }
 
     h1 {
