@@ -12,7 +12,7 @@ redirect_from:
     /* General body text */
     body {
         font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-        font-size: 11px;
+        font-size: 12px;
         line-height: 1.6; /* This adds spacing between lines of text */
     }
 
@@ -23,7 +23,7 @@ redirect_from:
     }
 
     h2 {
-        font-size: 24px;
+        font-size: 15px;
         margin-top: 20px; /* Adds space above this level header */
     }
 
