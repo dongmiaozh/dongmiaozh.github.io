@@ -12,7 +12,7 @@ redirect_from:
     /* General body text */
     body {
         font-family: Tisa
-        font-size: 9 px;
+        font-size: 9px;
         line-height: 1.6; /* This adds spacing between lines of text */
     }
 
