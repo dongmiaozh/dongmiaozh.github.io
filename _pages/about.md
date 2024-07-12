@@ -12,7 +12,7 @@ redirect_from:
     /* General body text */
     body {
         font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-        font-size: 9.5px;
+        font-size: 10px;
         line-height: 1.6; /* This adds spacing between lines of text */
     }
 
@@ -48,7 +48,7 @@ redirect_from:
 
     /* Column name and side column font size */
     .column-name, .side-column {
-        font-size: 13px;
+        font-size: 14px;
     }
 </style>
 
