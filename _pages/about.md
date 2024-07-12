@@ -11,7 +11,7 @@ redirect_from:
 <style>
     /* General body text */
     body {
-        font-size: 11px;
+        font-size: 9px;
         line-height: 1.6; /* This adds spacing between lines of text */
     }
 
