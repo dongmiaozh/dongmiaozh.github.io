@@ -5,6 +5,7 @@ permalink: /publication/Regional-diversification-and-intra-regional-wage-inequal
 excerpt: 'The literature has drawn little attention to the relationship between industrial dynamics (i.e. the rise and fall of industries) and intra-regional wage inequality. This explorative study examines the relationship between industry dynamics and wage inequality in NUTS-3 regions in the Netherlands in the period 2010-2019. While the literature has shown that related diversification in more complex industries enhances economic growth in regions but also inequality between regions, our study shows that related diversification in less complex industries tends to reduce wage inequality within a region. This implies it remains a policy challenge to combine smart and inclusive growth in regions. Our study also showed that there is no significant relationship between exit of industries and regional inequality, with one exception: unrelated low-complex exits tend to increase intra-regional wage inequality. Overall, these findings suggest that related diversification in less complex industries tends to bring benefits in terms of inclusive growth, while unrelated exits in less complex industries tend to do the opposite.'
 date: 2024-04-02
 venue: 'Regional Studies'
+status: published
 paperurl: 'https://doi.org/10.1080/00343404.2024.2319339'
 citation: 'Cortinovis, N., Zhang, D., & Boschma, R. (2024). Regional diversification and intra-regional wage inequality in the Netherlands. Regional Studies, 1–15.'
 ---
