@@ -231,12 +231,12 @@ defaults:
       share: true
       comments: true
       
-  # Publication Category - The following the list of publication categories and their headings
-    publication_category:
-      published:
-        title: 'Published papers'
-      work in progress:
-        title: 'Work in progress'    
+# Publication Category - The following the list of publication categories and their headings
+publication_category:
+  published:
+    title: 'Published papers'
+work in progress:
+    title: 'Work in progress'    
        # conferences:
          # title: 'Conference Papers'
   # _portfolio
