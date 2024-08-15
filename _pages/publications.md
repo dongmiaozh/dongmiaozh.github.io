@@ -73,22 +73,20 @@ author_profile: true
 
 {% include base_path %}
 
-{% if site.publication_category %}
-  {% for category in site.publication_category %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
+<!-- Added header for Publications -->
+<h2>Publications</h2><hr />
+
+{% for post in site.publications reversed %}
+  {% if post.type == "publication" %}
     {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  {% endif %}
+{% endfor %}
+
+<!-- Added header for Work in Progress -->
+<h2>Work in Progress</h2><hr />
+
+{% for post in site.publications reversed %}
+  {% if post.type == "work_in_progress" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
