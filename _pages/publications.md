@@ -88,6 +88,7 @@ author_profile: true
     {% endfor %}
   {% endfor %}
 {% else %}
+  <h2>All Publications</h2><hr />
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
