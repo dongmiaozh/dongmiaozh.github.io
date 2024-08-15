@@ -80,15 +80,13 @@ author_profile: true
     {% for post in site.publications reversed %}
       {% if post.categories contains category[0] %}
         {% unless title_shown %}
-          <h2>&lt;h2&gt;{{ category[1].title }}&lt;/h2&gt;&lt;hr /&gt;</h2>
+          <h2>{{ category[1].title }}</h2><hr />
           {% assign title_shown = true %}
         {% endunless %}
         {% include archive-single.html %}
-      {% endif %}
-    {% endfor %}
+      {% endfor %}
   {% endfor %}
 {% else %}
-  <h2>All Publications</h2><hr />
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
