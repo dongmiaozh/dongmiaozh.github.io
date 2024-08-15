@@ -219,7 +219,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  /*
   # _publications
     - scope:
         path: ""
@@ -229,7 +228,6 @@ defaults:
         author_profile: true
         share: true
         comments: true
-        */
   # Publication Category - The following the list of publication categories and their headings
     publication_category:
       books:
