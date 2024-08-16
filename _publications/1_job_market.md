@@ -1,5 +1,5 @@
 ---
-title: "Who benefits from AI adoption? Skill complementarity and labour market dynamics"
+title: "Who benefits from AI adoption? Skill complementarity and labour market dynamics (single author)"
 collection: publications
 category: work_in_progress
 status: under review
