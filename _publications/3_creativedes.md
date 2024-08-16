@@ -1,5 +1,5 @@
 ---
-title: "The creative destruction of Artificial Intelligence on occupations: evidence from U.S. Metropolitan areas"
+title: "The creative destruction of Artificial Intelligence on occupations: evidence from U.S. Metropolitan areas (with Ron Boschma and Pierre Alex Balland)"
 collection: publications
 category: work_in_progress
 status: preperation for submission
