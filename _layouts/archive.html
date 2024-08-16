@@ -13,14 +13,12 @@ layout: default
 {% endif %}
 
 <div id="main" role="main">
-  <!-- Optional: Remove or keep sidebar based on need -->
-  <!-- {% include sidebar.html %} -->
+  {% include sidebar.html %}
 
-  <div class="archive-single">
-    <!-- Always show the page title -->
-    <h1 class="page__title">{{ page.title }}</h1>
-
-    <!-- Render the main content -->
+  <div class="archive">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 class="page__title">{{ page.title }}</h1>
+    {% endunless %}
     {{ content }}
   </div>
 </div>
