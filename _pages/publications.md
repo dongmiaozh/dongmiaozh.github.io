@@ -80,7 +80,8 @@ author_profile: true
     {% for post in site.publications reversed %}
       {% if post.categories contains category[0] %}
         {% unless title_shown %}
-          <h2>{{ category[1].title }}</h2><hr />
+          <h2>{{ category[1].title }}</h2>
+          <hr />
           {% assign title_shown = true %}
         {% endunless %}
         {% include archive-single.html %}
