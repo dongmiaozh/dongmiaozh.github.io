@@ -44,7 +44,9 @@
       {% if post.categories contains "published" %}
         <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
       {% elsif post.categories contains "work_in_progress" %}
-        <p><strong>Status:</strong> {{ post.status }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+        <p><strong>Author:</strong> {{ post.author }}<br>
+        <strong>Status:</strong> {{ post.status }}<br>
+        <strong>Year:</strong> {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
       {% endif %}
     {% endif %}
 
